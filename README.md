@@ -1,4 +1,4 @@
-###back-build-cli v1.0.2
+###back-build-cli v1.0.3
 
 生成antd-base-module的脚手架
 
